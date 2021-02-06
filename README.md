@@ -14,4 +14,4 @@ Sou desenvolvedor front-end.
     href="https://www.linkedin.com/in/luccasbarros/" 	    href="https://www.linkedin.com/in/luccasbarros/" 
     alt="LinkedIn"	    alt="LinkedIn"
     target="blank"	    target="blank"
-  >	  >
+  >	  
