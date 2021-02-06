@@ -13,5 +13,5 @@ Sou desenvolvedor front-end.
     alt="LinkedIn"	    alt="LinkedIn"
     target="blank"	    target="blank"
   >	
-    <img src="https://img.shields.io/badge/-LinkedIn-FA8072?style=flat&logo=Linkedin&logoColor=white" />	    <img src="https://img.shields.io/badge/-LinkedIn-FA8072?style=flat&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-FA8072?style=flat&logo=Linkedin&logoColor=white" />
   </a>
