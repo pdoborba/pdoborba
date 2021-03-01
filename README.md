@@ -6,5 +6,5 @@ Sou desenvolvedor front-end.
 <br>
 😄 Tenho competência com: Html, Css, Javascript e ReactJS.
 <br>
-💻 Atualmente estudo: ReactJS, VueJs, AngularJS e NodeJs.
+💻 Atualmente estudo: ReactJS, VueJs, Angular e NodeJs.
 
