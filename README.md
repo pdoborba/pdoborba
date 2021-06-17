@@ -2,7 +2,13 @@
 Sou Desenvolvedor Front-End.
 
 <br>
-😄 Tenho competência com: Html, Css, Javascript & ReactJS.
+Front-end:
+HTML / CSS / JS / ReactJS / NextJs
 <br>
-💻 Atualmente estudo: Flutter & Spring Boot.
+<br>
+Back-end (em andamento):
+MySQL / Node.JS / API Rest / Software Architeture (SOLID)
+<br>
+<br>
+
 
