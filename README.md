@@ -1,8 +1,9 @@
 ## Olá 👋
 #### Sou Desenvolvedor Front-End e estou estudando para me tornanr de fato um FullStack em Javascript.
-<br>
-Ahh não esquece me me acompanhar por aqui, porque vou estar soltando vários projetos que eu to desenvolvendo! 
 
+Ahh não esquece me me acompanhar por aqui, porque vou estar soltando vários projetos que eu to desenvolvendo! 
+<br>
+<br>
 <br>
 Front-end:
 <br>
