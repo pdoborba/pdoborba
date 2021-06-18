@@ -1,9 +1,9 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1>
 <hr />
 <br />
-<h4 align="center" >
+<h3 align="center" >
 Me chamo <b> Pedro Borba</b>.
-</h4>
+</h3>
 <a href="https://www.linkedin.com/in/pedro-borba-317321183/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
