@@ -31,7 +31,7 @@ Estudo programação a mais de 1 ano, e continuo me capacitando para chegar a lu
 - 📝 Veja meu <a href="https://drive.google.com/file/d/19nE5XgGTC2LwFkBemZpykcsqdFkjCXIF/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdoborba&layout=compact&theme=graywhite&title_color=268bd2" alt="Pedro-Borba" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdoborba&layout=compact&theme=dark&title_color=268bd2" alt="Pedro-Borba" />
 </p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdoborba&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="Pedro-Borba" />
