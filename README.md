@@ -2,7 +2,7 @@
 <hr />
 <br />
 <p align="center" >
-Me chamo <b> Pedro Borba</b>.
+<h4>Me chamo <b> Pedro Borba</b>.</h4>
 </p>
 <a href="https://www.linkedin.com/in/pedro-borba-317321183/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
