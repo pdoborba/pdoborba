@@ -19,16 +19,16 @@ Estudo programação a mais de 1 ano, e continuo me capacitando para chegar a lu
 
 <img align="right" alt="GIF" src="https://i.ibb.co/M5SsbkZ/Captura-de-Tela-2021-06-18-a-s-10-02-40-removebg-preview.png" width="250px" />
 
-- 🧑‍💻  Estou estudando: **Flutter** & **Spring Boot**;
+- 🧑‍💻 Estou estudando: **Flutter** & **Spring Boot**;
 - Atualmente estou buscando uma oportunidade de me recolocar no mercado de desenvolvimento; 
 - 💼  Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾  Meus hobbies são: 
   - Estudar sobre programação Mobile;
   - Ficar em família;
   - Ler livros;
-- 💬  Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫  Se quiser pode enviar um email para pedro_borba77@hotmail.com.
-- 📝  Veja meu <a href="https://drive.google.com/file/d/19nE5XgGTC2LwFkBemZpykcsqdFkjCXIF/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
+- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
+- 📫 Se quiser pode enviar um email para pedro_borba77@hotmail.com.
+- 📝 Veja meu <a href="https://drive.google.com/file/d/19nE5XgGTC2LwFkBemZpykcsqdFkjCXIF/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdoborba&layout=compact&theme=dark&title_color=268bd2" alt="Pedro-Borba" />
