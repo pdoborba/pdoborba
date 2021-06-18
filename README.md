@@ -17,7 +17,7 @@ Estudo programação a mais de 1 ano, e continuo me capacitando para chegar a lu
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://i.ibb.co/M5SsbkZ/Captura-de-Tela-2021-06-18-a-s-10-02-40-removebg-preview.png" width="150px" />
+<img align="right" alt="GIF" src="https://i.ibb.co/M5SsbkZ/Captura-de-Tela-2021-06-18-a-s-10-02-40-removebg-preview.png" width="250px" />
 
 - 👩‍💻 Estou estudando: **Flutter** & **Spring Boot**;
 - Atualmente estou buscando uma oportunidade de me recolocar no mercado de desenvolvimento; 
