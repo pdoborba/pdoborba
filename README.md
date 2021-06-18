@@ -20,7 +20,7 @@ Estudo programação a mais de 1 ano, e continuo me capacitando para chegar a lu
 <img align="right" alt="GIF" src="https://i.ibb.co/M5SsbkZ/Captura-de-Tela-2021-06-18-a-s-10-02-40-removebg-preview.png" width="200px" />
 
 - 👩‍💻 Estou estudando: **Flutter** & **Spring Boot**;
-- Atualmente estou buscando uma oportunidade de me recolocar no mercado de desenvolvimento novamente; 
+- Atualmente estou buscando uma oportunidade de me recolocar no mercado de desenvolvimento; 
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
   - Estudar sobre programação Mobile;
