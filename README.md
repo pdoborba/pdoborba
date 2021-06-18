@@ -7,7 +7,7 @@ Ahh não esquece de me acompanhar por aqui, porque vou estar soltando vários pr
 <br>
 Front-end:
 <br>
-HTML / CSS / JS / ReactJS / NextJs
+HTML / CSS / JS / ReactJS / Flutter
 <br>
 <br>
 Back-end (em andamento):
