@@ -60,7 +60,6 @@ Estudo programação a mais de 1 ano, e continuo me capacitando para chegar a lu
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pdoborba" alt="Pedro-Borba" /> </p>
 
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 
