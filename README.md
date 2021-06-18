@@ -17,7 +17,7 @@ Estudo programação a mais de 1 ano, e continuo me capacitando para chegar a lu
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://i.ibb.co/M5SsbkZ/Captura-de-Tela-2021-06-18-a-s-10-02-40-removebg-preview.png" width="200px" />
+<img align="right" alt="GIF" src="https://i.ibb.co/M5SsbkZ/Captura-de-Tela-2021-06-18-a-s-10-02-40-removebg-preview.png" width="150px" />
 
 - 👩‍💻 Estou estudando: **Flutter** & **Spring Boot**;
 - Atualmente estou buscando uma oportunidade de me recolocar no mercado de desenvolvimento; 
@@ -31,7 +31,7 @@ Estudo programação a mais de 1 ano, e continuo me capacitando para chegar a lu
 - 📝 Veja meu <a href="https://drive.google.com/file/d/19nE5XgGTC2LwFkBemZpykcsqdFkjCXIF/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdoborba&layout=compact&theme=dark&title_color=268bd2" alt="Pedro-Borba" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdoborba&layout=compact&theme=dark&title_color=268bd2" alt="Pedro-Borba" />
 </p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdoborba&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="Pedro-Borba" />
