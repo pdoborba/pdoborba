@@ -4,7 +4,7 @@
 <p align="center" >
 Me chamo <b> Pedro Borba</b>.
 </p>
-<a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
+<a href="https://www.linkedin.com/in/pedro-borba-317321183/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <br />
@@ -34,7 +34,7 @@ Estudo programação a mais de 1 ano, e continuo me capacitando para chegar a lu
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdoborba&layout=compact&theme=graywhite&title_color=268bd2" alt="Pedro-Borba" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdoborba&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Pedro-Borba" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdoborba&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="Pedro-Borba" />
 </p>
 
 **Linguagens e ferramentas:**  
