@@ -10,7 +10,7 @@ Me chamo <b> Pedro Borba</b>.
 <br />
 <p align="left" >
 Atualmente moro em Campo Bom/RS.<br />
-Estudo programação a mais de 1 ano, e continuo me capacitando para chegar a lugares mais altos. </b>
+Estudo programação a mais de 2 ano, e continuo me capacitando para chegar a lugares mais altos. </b>
 </p>
 
 <hr />
