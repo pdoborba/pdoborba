@@ -28,7 +28,7 @@ Estudo programação a mais de 1 ano, e continuo me capacitando para chegar a lu
   - Ler livros;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para pedro_borba77@hotmail.com.
-- 📝 Veja meu <a href="https://drive.google.com/file/d/19nE5XgGTC2LwFkBemZpykcsqdFkjCXIF/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="https://drive.google.com/file/d/13Xv3Bn3R6J-lZz5JS7OGcTI4rOJMVm3U/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdoborba&layout=compact&theme=dark&title_color=268bd2" alt="Pedro-Borba" />
@@ -43,6 +43,7 @@ Estudo programação a mais de 1 ano, e continuo me capacitando para chegar a lu
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
