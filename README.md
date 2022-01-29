@@ -54,7 +54,7 @@ Estudo programação a mais de 1 ano, e continuo me capacitando para chegar a lu
 
 
 <p align="center">
-    <a href="https://github.com/pdoborba" target="_blank"><img alt="Pedro-Borba" src="https://badges.pufler.dev/visits/pdoborba/pdoborba?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/pdoborba" target="_blank"><img alt="visitas" src="https://badges.pufler.dev/visits/pdoborba/pdoborba?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
 </p>
 
 
